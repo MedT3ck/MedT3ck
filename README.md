@@ -26,15 +26,13 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/dw54xyhjdvebwad684nyb8epw)
-
-<br />
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ramouz Spotify Playing" width="350" />](https://open.spotify.com/user/dw54xyhjdvebwad684nyb8epw)
 
 ---
 
   <summary> GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MedT3ck&show_icons=true&hide_border=true" />
+  <img align="left" alt="El Ramouz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MedT3ck&show_icons=true&hide_border=true" />
 
 [website]: #
 [course]: #
